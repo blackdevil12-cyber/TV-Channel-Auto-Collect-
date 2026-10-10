@@ -3164,6 +3164,8 @@ https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8
 #EXTINF:-1 tvg-logo="https://yettelevision.com/assets/images/logo/channel_1.png" group-title="IN",YET TV
 https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="IN",YRF Music
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="IN",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="IN",YRF Music
 https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8
@@ -3301,6 +3303,8 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gE166hZ.jpeg" group-title="IN",Zodiak TV
 https://ranacable.duckdns.org/ZodiakTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="IN",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="IN",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxx05Z9.png" group-title="IN",Zoom
